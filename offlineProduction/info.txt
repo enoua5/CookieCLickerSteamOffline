@@ -1,0 +1,11 @@
+{
+	"Name": "Offline Prodution",
+	"ID": "enoua5:offline",
+	"Author": "Iota",
+	"Description": "Provides offline production, including wrinklers. Much of this code is based off of Real Perfect Idling by MSco.",
+	"ModVersion": 1,
+	"GameVersion": 2.042,
+	"Date": "18/09/2021",
+	"Dependencies": [],
+	"AllowSteamAchievs":1
+}
